@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sahhimanshu7
-- 👀 I’m interested in Full Stack Web Development
+- 👋 Hello, I am Himanshu Sah from Nepal. I am studing bachelor of computer engineering in the University of Akron.
+- 👀 I am interested in full stack development.
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me ...
+- himanshusah41@gmail.com
 
 <!---
 Sahhimanshu7/Sahhimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
