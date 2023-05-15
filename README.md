@@ -1,4 +1,4 @@
-- 👋 Hello, I am Himanshu Sah from Nepal. I am studing bachelor of computer engineering in the University of Akron.
+- 👋 Hello, I am Himanshu Sah. I am studing bachelor of computer engineering in the University of Akron.
 - 👀 I am interested in full stack development.
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on websites
