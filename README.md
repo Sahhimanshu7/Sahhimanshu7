@@ -1,5 +1,5 @@
-- 👋 Hello, I am Himanshu Sah. I am studing bachelor of computer engineering in the University of Akron.
-- 👀 I am interested in full stack development.
+- 👋 Hello, I am Himanshu Sah. I am pursuing a bachelor of computer science at the University of Akron.
+- 👀 I am interested in full-stack development.
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me ...
