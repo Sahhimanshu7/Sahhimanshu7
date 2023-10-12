@@ -23,8 +23,8 @@ I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursui
   - ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
   - 
 ## My Socials:
-[`LinkedIn`](https://www.linkedin.com/in/himanshu-sah-a98799165/)
-[`Gmail`](himanshusah41@gmail.com)
++ [`LinkedIn`](https://www.linkedin.com/in/himanshu-sah-a98799165/)
++ [`Gmail`](himanshusah41@gmail.com)
 
 <!---
 Sahhimanshu7/Sahhimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
