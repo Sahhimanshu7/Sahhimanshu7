@@ -9,18 +9,19 @@ Hi, My name is Himanshu Sah, and I am a full-stack web developer. I have been wo
 I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursuing a bachelor's in Computer Science. I am currently looking for an internship as a software developer.
 
 ## My Tech-stack
-*JavaScript
-  *NodeJs
-  *Reactjs
-  *Express
-  *MongoDB
++ JavaScript
+  - Node JS
+  - Express
+  - React
+  - MongoDB
++ C++
+  - STL (Standard Libraries)
++ Python3
+  - Flask
+  - Microservices
 
-*C++
-  *STL (Standard Libraries)
-
-*Python3
-  *Flask
-  *Microservices
+## My Socials:
+[LinkedIn](https://www.linkedin.com/in/himanshu-sah-a98799165/)
 
 <!---
 Sahhimanshu7/Sahhimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
