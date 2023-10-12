@@ -14,8 +14,10 @@ I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursui
 >>Reactjs
 >>Express
 >>MongoDB
+
 >C++
 >>STL (Standard Libraries)
+
 >Python3
 >>Flask
 >>Microservices
