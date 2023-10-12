@@ -28,8 +28,25 @@ I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursui
 + [`LinkedIn`](https://www.linkedin.com/in/himanshu-sah-a98799165/)
 + [`Gmail`](himanshusah41@gmail.com)
 
+## 🔭 I'm currently working on
+
+- My old projects
+- Restaurant Recommendation App (React-Native)
+- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My next blog
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Firebase
+- React Context API
+- Styled Components  
+
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahhimanshu7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahhimanshu7&layout=compact)](https://github.com/Sahhimanshu7)
 <!---
 Sahhimanshu7/Sahhimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
