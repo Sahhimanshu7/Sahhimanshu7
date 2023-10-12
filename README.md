@@ -1,7 +1,5 @@
 # Hey 👋!
 
-I am Himanshu Sah. 
-
 ### Welcome to my Homepage!
 
 ## About
@@ -30,6 +28,8 @@ I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursui
 + [`LinkedIn`](https://www.linkedin.com/in/himanshu-sah-a98799165/)
 + [`Gmail`](himanshusah41@gmail.com)
 
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahhimanshu7)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Sahhimanshu7/Sahhimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
