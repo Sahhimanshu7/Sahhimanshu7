@@ -9,7 +9,7 @@ Hi, My name is Himanshu Sah, and I am a full-stack web developer. I have been wo
 I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursuing a bachelor's in Computer Science. I am currently looking for an internship as a software developer.
 
 ## My Tech-stack
-+ JavaScript
++ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   - Node JS
   - Express
   - React
