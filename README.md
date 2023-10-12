@@ -10,17 +10,17 @@ I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursui
 
 ## My Tech-stack
 +JavaScript
--NodeJs
--Reactjs
--Express
--MongoDB
+  -NodeJs
+  -Reactjs
+  -Express
+  -MongoDB
 
 +C++
--STL (Standard Libraries)
+  -STL (Standard Libraries)
 
 +Python3
--Flask
--Microservices
+  -Flask
+  -Microservices
 
 <!---
 Sahhimanshu7/Sahhimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
