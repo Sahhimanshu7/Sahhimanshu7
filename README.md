@@ -39,6 +39,7 @@ I am also a sophomore at [`The University of Akron`](https://uakron.edu/) pursui
 - React Native
 - Firebase
 - React Context API
+- Redis
 - Microservices
 
 
